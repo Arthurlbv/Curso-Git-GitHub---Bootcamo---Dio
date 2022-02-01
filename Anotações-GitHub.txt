@@ -1,0 +1,2 @@
+Basicamente o GitHub é uma plataforma que armazena projetos remotamente, onde o usuário pode deixar seus arquivos públicos ou privados.
+Pode ser usado para trabalho em equipe entre outros benefícios.

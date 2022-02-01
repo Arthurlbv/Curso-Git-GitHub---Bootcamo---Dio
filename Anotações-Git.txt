@@ -1,0 +1,24 @@
+O Git é um programa para controle de veresionamento de código, onde, por meio dele, pode ser enviado arquivos para o lado remoto.
+
+Alguns códigos do Git Bash:
+
+Inicializar um repositório:
+git init
+
+Ver status do repositório:
+git status
+
+Adicionar novos arquivos ao commit:
+git add *  
+
+Criar commit:
+git commit -m "Mensagem qualquer"
+
+Linkar o repositório que queira enviar os arquivos ao Git:
+git remote add origin link_do_repositório
+
+Enviar arquivos para o GitHub:
+git push origin master
+
+
+
